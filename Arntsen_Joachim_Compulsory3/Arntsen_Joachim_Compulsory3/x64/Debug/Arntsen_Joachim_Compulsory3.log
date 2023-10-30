@@ -1,3 +1,4 @@
 ﻿  GeneralTree.cpp
-C:\Unreal Engine 5\Github\Arntsen_Joachim_Compulsory3\Arntsen_Joachim_Compulsory3\Arntsen_Joachim_Compulsory3\GeneralTree.cpp(35,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Test.cpp
+  Generating Code...
   Arntsen_Joachim_Compulsory3.vcxproj -> C:\Unreal Engine 5\Github\Arntsen_Joachim_Compulsory3\Arntsen_Joachim_Compulsory3\x64\Debug\Arntsen_Joachim_Compulsory3.exe

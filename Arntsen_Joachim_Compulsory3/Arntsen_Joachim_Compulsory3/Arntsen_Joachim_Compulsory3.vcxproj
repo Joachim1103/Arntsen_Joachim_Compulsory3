@@ -130,10 +130,6 @@
     <ClCompile Include="GeneralTree.cpp" />
     <ClCompile Include="Graphs.cpp" />
   </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="GeneralTree.h" />
-    <ClInclude Include="Graphs.h" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

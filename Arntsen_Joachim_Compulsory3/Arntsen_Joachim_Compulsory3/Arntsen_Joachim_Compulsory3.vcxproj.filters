@@ -22,12 +22,4 @@
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="GeneralTree.h">
-      <Filter>Source Files</Filter>
-    </ClInclude>
-    <ClInclude Include="Graphs.h">
-      <Filter>Source Files</Filter>
-    </ClInclude>
-  </ItemGroup>
 </Project>
